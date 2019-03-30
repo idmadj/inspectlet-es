@@ -1,9 +1,9 @@
 {
-    "name": "inspectlet-js",
+    "name": "inspectlet-es",
     "version": "1.0.0",
     "description": "ES module for Inspectlet.",
     "license": "MIT",
-    "repository": "idmadj/inspectlet-js",
+    "repository": "idmadj/inspectlet-es",
     "main": "lib/index.js",
     "scripts": {
         "build": "babel src -d lib",
