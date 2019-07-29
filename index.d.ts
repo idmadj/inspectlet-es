@@ -1,7 +1,7 @@
 declare module 'inspectlet-es' {  
-  interface InspectletES {
-    install(id: number): void;
-    push(args: any[]): void;
+  declare function InspectletES(args: any[]): void;
+  declare namespace InspectletES {
+    export function install(id: number): void;
   }
 
   const InspectletES: InspectletES;
