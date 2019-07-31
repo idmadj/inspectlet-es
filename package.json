@@ -1,6 +1,6 @@
 {
     "name": "inspectlet-es",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "ES module for Inspectlet.",
     "license": "MIT",
     "repository": "idmadj/inspectlet-es",

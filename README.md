@@ -8,6 +8,10 @@ ES module for [Inspectlet](https://www.inspectlet.com).
 ```sh
 $ npm install --save inspectlet-es
 ```
+If using TypeScript, also install the type definitions:
+```sh
+$ npm install --save @types/inspectlet-es
+```
 
 ## Usage
 Pick your favorite:
