@@ -1,6 +1,6 @@
 {
     "name": "inspectlet-es",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "ES module for Inspectlet.",
     "license": "MIT",
     "repository": "idmadj/inspectlet-es",
@@ -29,8 +29,8 @@
         "package"
     ],
     "devDependencies": {
-        "@babel/cli": "^7.19.3",
-        "@babel/core": "^7.20.2",
+        "@babel/cli": "^7.20.7",
+        "@babel/core": "^7.20.12",
         "@babel/preset-env": "^7.20.2"
     }
 }
